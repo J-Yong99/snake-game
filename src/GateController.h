@@ -27,7 +27,6 @@ class Gate{
 
         void gateRefresh();
 
-
         void gateSensor();
 
 
